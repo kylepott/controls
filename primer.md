@@ -39,7 +39,7 @@ The Culture Memo lists PCI and financial confidentiality as examples where Netfl
 
 At Netflix, we seek to apply engineering principles to address compliance.
 
-## Compliance is like software engineering?<sup>2</sup>
+## Compliance is like software engineering<sup>2</sup>
 
 Software engineering and compliance have more in common than you might think.
 
