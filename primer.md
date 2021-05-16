@@ -15,16 +15,16 @@
 
 ## What do we mean when we say "compliance?"
 
-Think of compliance in two buckets.  The first bucket is what happens within Netflix.  The second bucket deals with external laws and regulations.  We call this regulatory compliance. Many regulations are well established.  For example:
+Think of compliance in two buckets.  The first bucket is what happens within Netflix.  The second bucket deals with external laws and regulations.  We call this **regulatory compliance**. Many regulations are well established.  For example:
 
 * Payment Card Industry Data Security Standard (PCI DSS 2004)
 * General Data Protection Regulation (GDPR 2016)
 * California Consumer Privacy Act (CCPA 2018)
 * Hundreds of other country and state specific compliance regulations also apply. Consumer demand drives the creation of new regulations.
 
-Regulatory Compliance is not optional.  We abide by all laws in each jurisdiction where we operate.
+**Regulatory compliance is not optional.  We abide by all laws in each jurisdiction where we operate.**
 
-Internal compliance refers to the frameworks we use to build helpful  systems.  The Privacy Policy is the cornerstone to internal compliance and it explains how we uphold our commitments to our members. Other helpful inputs are the Culture Memo, Security Policy, and Code of Conduct.<sup>1</sup>
+Internal compliance refers to the frameworks we use to build helpful  systems.  The [Privacy Policy](https://help.netflix.com/legal/privacy) is the cornerstone to internal compliance and it explains how we uphold our commitments to our members. Other helpful inputs are the [Culture Memo](https://jobs.netflix.com/culture), Security Program, and Code of Conduct.<sup>1</sup>
 
 ## Is compliance contrary to "people over process?"
 
@@ -46,7 +46,7 @@ Software engineering and compliance have more in common than you might think.
 4. Use instrumentation to your advantage. Just as you use logging to monitor app performance, use logging and data to watch your compliance environment. Robust logging can make compliance much easier.
 5. Decoupled administration processes help maintain your app. You may already have asynchronous jobs that clean up and compress database or other helpful performance tasks. Admin processes can also run controls and capture evidence so you spend less time interfacing with auditors while proving compliance adherence.
 6. Plan for chaos.  Chaos engineering anticipates infrastructure failures and helps with hardening.  Assume things will go wrong. Your controls help prevent issues and help with early intervention for faster recovery.
-7. As you think about software resiliency engineering (What are all the ways my app could break?) apply that same thinking to assessing the risks to your application or infrastructure. The FAIR methodology<sup>3</sup> is a tool to understand and quantify risk. Start by brainstorming adverse scenarios then rank the likelihood x impact as a simple way to start risk ranking. Then consider a few stretch questions: Do we process customer payment information? Do we store non-public customer information? Are we internet facing (or can we rely on other internal network or platform controls on a pre-existing "paved path")? These tend to be higher risk scenarios that benefit from greater attention to control definition and build out.
+7. As you think about software resiliency engineering (*What are all the ways my app could break?*) apply that same thinking to assessing the risks to your application or infrastructure. The [FAIR methodology](https://www.fairinstitute.org/about)<sup>3</sup> is a tool to understand and quantify risk. Start by brainstorming adverse scenarios then rank the likelihood x impact as a simple way to start risk ranking. Then consider a few stretch questions: Do we process customer payment information? Do we store non-public customer information? Are we internet facing (or can we rely on other internal network or platform controls on a pre-existing "paved path")? These tend to be higher risk scenarios that benefit from greater attention to control definition and build out.
 8. Proactive beats reactive.  Push beats pull. At regular intervals, how can you capture evidence of compliance and share back to a central repository for audit review? Use internal APIs to your advantage by helping build a centralized inventory of risks, controls, and control evidence.6
 9. Do you provide a horizontal or shared service that others rely on? These present tremendous opportunities to build paved paths that others can rely upon.
 
@@ -64,7 +64,7 @@ Most of us can't remember what we had for dinner three nights ago, let alone thr
 
 ### Documentation actually helps
 
-The agile manifesto demands "working software over comprehensive documentation." This is an area where some documentation about how a control is designed can save future hours of effort. Your future-self will thank you.
+The [agile manifesto](https://agilemanifesto.org/) demands "working software over comprehensive documentation." This is an area where some documentation about how a control is designed can save future hours of effort. Your future-self will thank you.
 
 ### We're on the same team
 
@@ -74,7 +74,7 @@ Compliance testing can turn stressful.  Demonstrating compliance can be difficul
 
 It is common for companies to adhere to many different compliance frameworks. Netflix operates in 190 different countries. It is impossible for one person to know all the different laws and regulations that apply to a particular application. Instead, we use a system of risk assessment and an inventory of controls with traceability to regulations. Everything does not need the same level of controls. We fight the python of process by calibrating controls to the level of risk.
 
-We can think of a control as any system or procedure that helps improve the likelihood of the business achieving it's objectives. Common examples of controls for cloud-based companies include: access management, encryption, safe storage of customer information, and logging and monitoring to confirm that services work as intended. Engineers and product teams tend to be very security conscious already. These teams use a multitude of controls to do the right thing for the customer, but have never used the term "control."  Control is a strange name for a familiar concept.
+We can think of a **control** as any system or procedure that helps improve the likelihood of the business achieving it's objectives. Common examples of controls for cloud-based companies include: access management, encryption, safe storage of customer information, and logging and monitoring to confirm that services work as intended. Engineers and product teams tend to be very security conscious already. These teams use a multitude of controls to do the right thing for the customer, but have never used the term "control."  Control is a strange name for a familiar concept.
 
 ### There are different types of controls:
 
@@ -89,9 +89,9 @@ Our strategy allows us to measure risk, build effective controls and provides th
 
 ## Measuring outcomes and impact
 
-It is hard to track when something doesn't occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things don't happen you usually never know it. We expect to maintain a compliant environment. Error prevention is not the goal. Netflix is not in a safety-critical business<sup>5</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
+It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. We expect to maintain a compliant environment. Error prevention is not the goal. Netflix is not in a safety-critical business<sup>5</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
 
-Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using<sup>6</sup>.
+Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using**<sup>6</sup>.
 
 Processes success is informed by those that actually use the process who and live with it daily.  Not by the process creators. Transparent and direct feedback from the community on how it's going and how it could go better is expected.
 
