@@ -6,7 +6,7 @@
 
   
 ## 30 Second Overview
-The following memo provides a baseline understanding of compliance and controls and an introductory strategy to build a modern compliance management system.  The anticipated outcome is a mapping of controls to risks and a system that helps partners leverage compliance information in their decision-making.
+This memo provides a baseline understanding of compliance and controls and an introductory strategy to build a modern compliance management system.  The anticipated outcome is a mapping of controls to risks and a system that helps partners leverage compliance information in their decision-making.
 
 [![](https://img.youtube.com/vi/ivTr1ATo-1M/0.jpg)](https://www.youtube.com/watch?v=ivTr1ATo-1M)
 
@@ -96,7 +96,7 @@ Our strategy allows us to measure risk, build effective controls and provides th
 
 It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. Expect to maintain a compliant environment, but error prevention is not the goal. Netflix is not in a safety-critical business.<sup>6</sup> If too much error prevention hinders inventive, creative work, then the system is not working.
 
-Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using.**
+Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other products engineers enjoy using.**
 
 Process success is informed by those that actually use the process and live with it daily -- *not* by the process creators. Transparent and direct feedback from the community on how it's going and how it could go better is expected.
 
