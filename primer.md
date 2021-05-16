@@ -83,7 +83,7 @@ Think of a **control** as any system or procedure that helps improve the likelih
 
 * **Automated preventative** controls are the best. They block bad things from ever happening. They're built once and can run for a lifetime.
 * **Automated detective** controls are good and use log files, instrumentation, and telemetry to identify and help when something seems fishy.  They can help cut disruption and reduce downside impact.
-* **Manual detective** controls need human intervention to figure out what happened. With some exceptions<sup>5</sup>, these controls are too expensive, too slow, and don't work well at the scale of Netflix.
+* **Manual detective** controls need human intervention to figure out what happened. With some exceptions,<sup>5</sup> these controls are too expensive, too slow, and don't work well at the scale of Netflix.
 * **Directive** controls equate to telling someone what to do or not to do.  Avoid this type of control as it runs contrary to the Netflix culture of people over process.
 
 Automated controls allow for the efficient and systematic gathering of evidence.  Automation gives momentum to control reuse. A minimum number of controls can be used to satisfy a maximum number of compliance frameworks and obligations. That's the goal.
