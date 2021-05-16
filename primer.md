@@ -64,7 +64,7 @@ A practical methodology includes risk identification and measurement, control de
 
 ### Time-boxed
 
-Most people can't remember what they had for dinner three nights ago, let alone three months ago.  Control testing is usually time bound and the testing window can lag in the past -- too far in the past to remember. You have to rely on our controls to pull back old evidence rather than show how you're doing it today.
+Most people can't remember what they had for dinner three nights ago, let alone three months ago.  Control testing is usually time bound and the testing window can lag in the past -- too far in the past to remember offhand. You have to build a durable system that can pull back old evidence rather than just show how you're doing it today.
 
 ### Documentation actually helps
 
@@ -72,7 +72,7 @@ The [agile manifesto](https://agilemanifesto.org/) demands "working software ove
 
 ### Everyone is on the same team
 
-Compliance testing can turn stressful.  Demonstrating compliance can be difficult for product teams.  Internal auditors have a tough job, too. Despite the stress that can come up, remember everyone is on the same team and has an intense focus on the customer and doing what's best for Netflix.  Internal competition among teams distracts from pleasing the customer.
+Compliance testing can turn stressful.  Demonstrating compliance can be difficult for product teams.  Internal auditors have a tough job, too. Despite the moments of stress, remember everyone is on the same team and wants to do what's best for the customer and Netflix.  Internal competition among teams distracts from pleasing the customer.
 
 ## What is our risk and control strategy?
 
