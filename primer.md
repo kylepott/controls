@@ -6,7 +6,8 @@
 
   
 ## 30 Second Overview
-To help the company understand compliance requirements and business impact, the following memo provides a baseline understanding of compliance and controls and an introductory strategy to build a modern compliance management system.
+The following memo provides a baseline understanding of compliance and controls and an introductory strategy to build a modern compliance management system.  
+The anticipated outcome is an understanding of the mapping of contorls to risks and a system that hepls partners leverage compliance information in their decision-making.
 [![](https://img.youtube.com/vi/ivTr1ATo-1M/0.jpg)](https://www.youtube.com/watch?v=ivTr1ATo-1M)
 
 1. Compliance systems have both internal and external requirements
@@ -76,9 +77,9 @@ Compliance testing can turn stressful.  Demonstrating compliance can be difficul
 
 ## What is our risk and control strategy?
 
-It is common for companies to adhere to many different compliance frameworks. Netflix operates in 190 different countries. It is impossible for one person to know all the different laws and regulations that apply to a particular application. Instead, a system of risk assessment and an inventory of controls with traceability to regulations is used. Everything does not need the same level of controls. The system fights the python of process by calibrating controls with the level of risk.
+It is common for companies to adhere to many different compliance frameworks. Netflix operates in 190 different countries. It is impossible for one person to know all the different laws and regulations that apply to a particular application. Instead, a risk assessment system and an inventory of controls with traceability to regulations is used. Everything does not need the same level of controls. The system fights the python of process by calibrating controls with the level of risk.
 
-Think of a **control** as any system or procedure that helps improve the likelihood of the business achieving it's objectives. Common examples of controls for cloud-based companies include: access management, encryption, safe storage of customer information, and logging and monitoring to confirm that services work as intended. Engineers and product teams tend to be very security conscious already. These teams use a multitude of controls to do the right thing for the customer, but have never used the term "control."  Control is a strange name for a familiar concept.
+Think of a **control** as any system or procedure that helps improve the likelihood of the business achieving its objectives. Common examples of controls for cloud-based companies include: access management, encryption, safe storage of customer information, and logging and monitoring to confirm that services work as intended. Engineers and product teams tend to be very security conscious already. These teams use a multitude of controls to do the right thing for the customer, but have never used the term "control."  Control is a strange name for a familiar concept.
 
 ### There are different types of controls:
 
