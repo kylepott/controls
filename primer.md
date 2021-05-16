@@ -92,7 +92,7 @@ Our strategy allows us to measure risk, build effective controls and provides th
 
 ## Measuring outcomes and impact
 
-It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. Expect to maintain a compliant environment, but error prevention is not the goal. Netflix is not in a safety-critical business<sup>6</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
+It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. Expect to maintain a compliant environment, but error prevention is not the goal. Netflix is not in a safety-critical business.<sup>6</sup> If too much error prevention hinders inventive, creative work, then the system is not working.
 
 Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using.**
 
