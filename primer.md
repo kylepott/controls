@@ -78,10 +78,10 @@ Think of a **control** as any system or procedure that helps improve the likelih
 
 ### There are different types of controls:
 
-* Automated preventative controls are the best and they block bad things from ever happening. They're built once and can run for a lifetime.
-* Automated detective controls are good and use log files, instrumentation, and telemetry to identify and help when something seems fishy.  They can help cut disruption and reduce downside impact.
-* Manual detective controls need human intervention to figure out what happened. With some exceptions<sup>4</sup>, these controls are too expensive, too slow, and don't work well at the scale of Netflix.
-* Directive controls equate to telling someone what to do or not to do.  Avoid this type of control as it runs contrary to the Netflix culture of people over process.
+* **Automated preventative** controls are the best and they block bad things from ever happening. They're built once and can run for a lifetime.
+* **Automated detective** controls are good and use log files, instrumentation, and telemetry to identify and help when something seems fishy.  They can help cut disruption and reduce downside impact.
+* **Manual detective** controls need human intervention to figure out what happened. With some exceptions<sup>4</sup>, these controls are too expensive, too slow, and don't work well at the scale of Netflix.
+* **Directive** controls equate to telling someone what to do or not to do.  Avoid this type of control as it runs contrary to the Netflix culture of people over process.
 
 Automated controls allow for the efficient and systematic gathering of evidence.  Automation gives momentum to control reuse. A minimum number of controls can be used to satisfy a maximum number of compliance frameworks and obligations. That's the goal.
 
@@ -91,7 +91,7 @@ Our strategy allows us to measure risk, build effective controls and provides th
 
 It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. Expect to maintain a compliant environment, but error prevention is not the goal. Netflix is not in a safety-critical business<sup>5</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
 
-Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using**<sup>6</sup>.
+Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using.**<sup>6</sup>
 
 Processes success is informed by those that actually use the process who and live with it daily.  Not by the process creators. Transparent and direct feedback from the community on how it's going and how it could go better is expected.
 
