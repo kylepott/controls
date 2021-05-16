@@ -109,7 +109,7 @@ Compliance is iterative. A little bit of progress each day adds up to massive re
 
 > Start where you are, use what you have, do what you can - Arthur Ashe
 
-## Notes
+## Assumptions
 1. I am making an assumption that there are internal policies to help guide expectations.
 
 2. I drew a lot of inspiration for these ideas from the [12 Factor App](https://12factor.net/).
