@@ -96,7 +96,7 @@ It is hard to track when something *doesn't* occur. This makes the measurement o
 
 Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using.**
 
-Processes success is informed by those that actually use the process who and live with it daily.  Not by the process creators. Transparent and direct feedback from the community on how it's going and how it could go better is expected.
+Process success is informed by those that actually use the process and live with it daily -- *not* by the process creators. Transparent and direct feedback from the community on how it's going and how it could go better is expected.
 
 ## Bonus: Doesn't all this work on compliance slow us down?
 
