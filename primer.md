@@ -50,7 +50,7 @@ Software engineering and compliance have more in common than you might think.
 5. Decoupled administration processes help maintain your app. You may already have asynchronous jobs that clean up and compress tables or other helpful performance tasks. Admin processes can also run controls and capture evidence so you spend less time interfacing with auditors while proving compliance adherence.
 6. Plan for chaos.  Chaos engineering anticipates infrastructure failures and helps with hardening.  Assume things will go wrong. Your controls help prevent issues and help with early intervention for faster recovery.
 7. As you think about software resiliency engineering (*What are all the ways my app could break?*) apply that same thinking to assessing the risks to your application or infrastructure. Start by brainstorming adverse scenarios then rank the likelihood x impact as a simple way to start risk ranking.<sup>3</sup> Then consider a few stretch questions: Do we process customer payment information? Do we store non-public customer information? Are we internet facing (or can we rely on other internal network or platform controls on a pre-existing "paved path")? These tend to be higher risk scenarios that benefit from greater attention to control definition and build out.
-8. Proactive beats reactive.  Push beats pull. At regular intervals, how can you capture evidence of compliance and share back to a central repository for audit review? Use internal APIs to your advantage by helping build a centralized inventory of risks, controls, and control evidence.6
+8. Proactive beats reactive.  Push beats pull. At regular intervals, how can you capture evidence of compliance and share back to a central repository for audit review? Use internal APIs to your advantage by helping build a centralized inventory of risks, controls, and control evidence.<sup>4</sup>
 9. Do you provide a horizontal or shared service that others rely on? These present tremendous opportunities to build paved paths that others can rely upon.
 
 ## Why can compliance be so frustrating?
@@ -83,7 +83,7 @@ Think of a **control** as any system or procedure that helps improve the likelih
 
 * **Automated preventative** controls are the best and they block bad things from ever happening. They're built once and can run for a lifetime.
 * **Automated detective** controls are good and use log files, instrumentation, and telemetry to identify and help when something seems fishy.  They can help cut disruption and reduce downside impact.
-* **Manual detective** controls need human intervention to figure out what happened. With some exceptions<sup>4</sup>, these controls are too expensive, too slow, and don't work well at the scale of Netflix.
+* **Manual detective** controls need human intervention to figure out what happened. With some exceptions<sup>5</sup>, these controls are too expensive, too slow, and don't work well at the scale of Netflix.
 * **Directive** controls equate to telling someone what to do or not to do.  Avoid this type of control as it runs contrary to the Netflix culture of people over process.
 
 Automated controls allow for the efficient and systematic gathering of evidence.  Automation gives momentum to control reuse. A minimum number of controls can be used to satisfy a maximum number of compliance frameworks and obligations. That's the goal.
@@ -92,9 +92,9 @@ Our strategy allows us to measure risk, build effective controls and provides th
 
 ## Measuring outcomes and impact
 
-It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. Expect to maintain a compliant environment, but error prevention is not the goal. Netflix is not in a safety-critical business<sup>5</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
+It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. Expect to maintain a compliant environment, but error prevention is not the goal. Netflix is not in a safety-critical business<sup>6</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
 
-Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using.**<sup>6</sup>
+Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using.**
 
 Processes success is informed by those that actually use the process who and live with it daily.  Not by the process creators. Transparent and direct feedback from the community on how it's going and how it could go better is expected.
 
@@ -119,8 +119,8 @@ Compliance is iterative. A little bit of progress each day adds up to massive re
 
 3. I assume that internally developed single page apps (SPAs) help guide engineers to identify risks and controls aligned with the The [FAIR methodology](https://www.fairinstitute.org/about).  I envision tools like these can help capture the results into an inventory. For simplicity, I suggest a basic starting point of likelihood x impact.
 
-4. Incident response is one of these exceptions and tends to be an excellent cost/value return on manual human effort.
+4. I assume internal APIs are in place (or can be put in place) to support the capturing of evidence from engineering teams.
 
-5. Aircraft manufacturing for example.
+5. Incident response is one of these exceptions and tends to be an excellent cost/value return on manual human effort.
 
-6. This assumes that internal APIs are in place (or can be put in place) to support the capturing of evidence from engineering teams.
+6. Aircraft manufacturing for example.
