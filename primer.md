@@ -1,7 +1,7 @@
-A Primer on Compliance and Controls
+#A Primer on Compliance and Controls#
 Time to read: 7 minutes
 
-30 Second Overview
+##30 Second Overview##
 <insert Video>
 
 Compliance systems have both internal and external requirements
