@@ -112,7 +112,7 @@ Lean on your Security Partners and especially the STAR team to translate the com
 
 Compliance is iterative. A little bit of progress each day adds up to massive results. 
 
-> Start where you are, use what you have, do what you can - Arthur Ashe
+> Start where you are, use what you have, do what you can. - Arthur Ashe
 
 ## Assumptions
 1. I am making an assumption that there are internal policies to help guide expectations.
