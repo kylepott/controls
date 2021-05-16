@@ -7,6 +7,7 @@
   
 ## 30 Second Overview
 The following memo provides a baseline understanding of compliance and controls and an introductory strategy to build a modern compliance management system.  The anticipated outcome is a mapping of controls to risks and a system that hepls partners leverage compliance information in their decision-making.
+
 [![](https://img.youtube.com/vi/ivTr1ATo-1M/0.jpg)](https://www.youtube.com/watch?v=ivTr1ATo-1M)
 
 1. Compliance systems have both internal and external requirements
