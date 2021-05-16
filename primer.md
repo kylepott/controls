@@ -15,7 +15,7 @@ This memo provides a baseline understanding of compliance and controls and an in
 3. Modern compliance has a surprising number of intersections with software engineering practices
 4. Some unique aspects of compliance testing can be frustrating
 5. Our strategy uses risk measurement to build controls that are right-sized (not one-size-fits-all)
-6. The Security Technology Assurance & Risk (STAR) team is here to help: ask questions and please share direct feedback.
+6. The Security Technology Assurance & Risk (STAR) team is here to help: ask questions and please share direct feedback
 
 ## What do we mean when we say "compliance?"
 
