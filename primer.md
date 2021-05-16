@@ -6,6 +6,7 @@
 
   
 ## 30 Second Overview
+To help the company understand compliance requirements and business impact, the following memo provides a baseline understanding of compliance and controls and an introductory strategy to build a modern compliance management system.
 [![](https://img.youtube.com/vi/ivTr1ATo-1M/0.jpg)](https://www.youtube.com/watch?v=ivTr1ATo-1M)
 
 1. Compliance systems have both internal and external requirements
@@ -51,7 +52,7 @@ Software engineering and compliance have more in common than you might think.
 6. Plan for chaos.  Chaos engineering anticipates infrastructure failures and helps with hardening.  Assume things will go wrong. Your controls help prevent issues and help with early intervention for faster recovery.
 7. As you think about software resiliency engineering (*What are all the ways my app could break?*) apply that same thinking to assessing the risks to your application or infrastructure. Start by brainstorming adverse scenarios then rank the likelihood × impact as a simple way to start risk ranking.<sup>3</sup> Then consider a few stretch questions: Do we process customer payment information? Do we store non-public customer information? Are we internet facing (or can we rely on other internal network or platform controls on a pre-existing "paved path")? These tend to be higher risk scenarios that benefit from greater attention to control definition and build out.
 8. Proactive beats reactive.  Push beats pull. At regular intervals, how can you capture evidence of compliance and share back to a central repository for audit review? Use internal APIs to your advantage by helping build a centralized inventory of risks, controls, and control evidence.<sup>4</sup>
-9. Do you provide a horizontal or shared service that others rely on? These present tremendous opportunities to build paved paths that others can rely upon.
+9. Do you provide a horizontal or shared service that others rely on? These present tremendous opportunities to build paved paths that others can use.
 
 ## Why can compliance be so frustrating?
 
