@@ -67,7 +67,7 @@ Most people can't remember what they had for dinner three nights ago, let alone 
 
 ### Documentation actually helps
 
-The [agile manifesto](https://agilemanifesto.org/) demands "working software over comprehensive documentation." Paradoxically, this is an area where some documentation about how a control is designed can save future hours of effort. Your future-self will thank you.
+The [agile manifesto](https://agilemanifesto.org/) demands "working software over comprehensive documentation." Paradoxically, this is an area where *some* documentation about the design of a control can save future hours of effort. Your future-self will thank you.
 
 ### Everyone is on the same team
 
