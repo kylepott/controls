@@ -109,6 +109,13 @@ Applying sound engineering principles to compliance topics, taking ownership, an
 Lean on your Security Partners and especially the STAR team to translate the complex ecosystem of compliance into a defined set of actions.
 
 ## Finally
+To emphasize what we said in the beginning:
+1. Compliance systems have both internal and external requirements
+2. We use systems to support compliance at scale
+3. Modern compliance has a surprising number of intersections with software engineering practices
+4. Some unique aspects of compliance testing can be frustrating
+5. Our strategy uses risk measurement to build controls that are right-sized (not one-size-fits-all)
+6. The Security Technology Assurance & Risk (STAR) team is here to help: ask questions and please share direct feedback
 
 Compliance is iterative. A little bit of progress each day adds up to massive results. 
 
