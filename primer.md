@@ -33,7 +33,7 @@ Internal compliance refers to the frameworks we use to build helpful  systems.  
 
 In some ways it is.  Compliance is a set of processes and prescriptions that we must follow.  External parties write  regulations as all-or-nothing mandates. Regulations tend to apply to companies of all sizes and industries.
 
-Due to the scale and complexity, it's not workable for each team to handle compliance on their own. We work to build helpful systems to give support and lift all teams. The STAR team works hard making the complex simple. We build processes that help teams get more done and we strive to create more informed captains.
+Due to the scale and complexity, it's not workable for each team to handle compliance on their own. We work to build helpful systems to give support and lift all teams. The STAR team works hard to make the complex simple. We build processes that help teams get more done and we strive to create more informed captains.
 
 The Culture Memo lists PCI and financial confidentiality as examples where Netflix relies on processes and controls. World-class compliance systems are grounded in helping the business achieve its objectives, minimize financial loss, and do the right thing for customers.  That's a winning combination.
 
