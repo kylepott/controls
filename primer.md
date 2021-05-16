@@ -1,5 +1,7 @@
-# A Primer on Compliance and Controls
-Time to read: 7 minutes
+
+<h1 align="center">A Primer on Compliance and Controls</h1>
+<p align="center">Time to read: 7 minutes
+</p>
 
 ## 30 Second Overview
 <insert Video>
@@ -107,7 +109,7 @@ Compliance is iterative. A little bit of progress each day adds up to massive re
 
 > Start where you are, use what you have, do what you can - Arthur Ashe
 
-
+## Notes
 1. I am making an assumption that there are internal policies to help guide expectations.
 
 2. I drew a lot of inspiration for these ideas from the 12 Factor App.
