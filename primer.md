@@ -17,12 +17,13 @@
 
 ## What do we mean when we say "compliance?"
 
-Think of compliance in two buckets.  The first bucket is what happens within Netflix.  The second bucket deals with external laws and regulations.  We call this **regulatory compliance**. Many regulations are well established.  For example:
+Think of compliance in two buckets.  The first bucket is what happens within Netflix.  The second bucket deals with external laws and regulations.  We call this **regulatory compliance**. Many regulations are well established:
 
 * Payment Card Industry Data Security Standard (PCI DSS 2004)
 * General Data Protection Regulation (GDPR 2016)
 * California Consumer Privacy Act (CCPA 2018)
-* Hundreds of other country and state specific compliance regulations also apply. Consumer demand drives the creation of new regulations.
+
+Hundreds of other country and state specific compliance regulations also apply. Consumer demand drives the creation of new regulations.
 
 **Regulatory compliance is not optional.  We abide by all laws in each jurisdiction where we operate.**
 
