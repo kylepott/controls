@@ -56,7 +56,7 @@ Most people don't walk around thinking about how they can prove they are followi
 
 For internal compliance a useful methodology includes risk identification and measurement, control design and control evidence:
 
-<Insert Drawing>
+<img src="lifecycle.png" height=40% width=40% />
 
 ### Time-boxed
 
