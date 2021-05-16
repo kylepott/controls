@@ -112,7 +112,7 @@ Compliance is iterative. A little bit of progress each day adds up to massive re
 ## Notes
 1. I am making an assumption that there are internal policies to help guide expectations.
 
-2. I drew a lot of inspiration for these ideas from the 12 Factor App.
+2. I drew a lot of inspiration for these ideas from the [12 Factor App](https://12factor.net/).
 
 3. I assume that internally developed single page apps (SPAs) help guide engineers to identify risks and controls aligned with the FAIR methodology.  I envision tools like these can help capture the results into an inventory. I also emphasize a simple starting point of likelihood x impact.
 
