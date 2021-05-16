@@ -1,10 +1,12 @@
 <p align="center"><img src="logo.png" width=40% height=40% /></p>
 <h1 align="center">A Primer on Compliance and Controls</h1>
 <p align="center">Time to read: 7 minutes
+
 </p>
 
+  
 ## 30 Second Overview
-<insert Video>
+[![](https://img.youtube.com/vi/ivTr1ATo-1M/0.jpg)](https://www.youtube.com/watch?v=ivTr1ATo-1M)
 
 1. Compliance systems have both internal and external requirements
 2. We use systems to support compliance at scale
