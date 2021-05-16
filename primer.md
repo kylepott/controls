@@ -52,29 +52,29 @@ Software engineering and compliance have more in common than you might think.
 
 ## Why can compliance be so frustrating?
 
-Most of us don't walk around thinking about how we can prove we are following the law.  I doubt you could come up with evidence that proves you drove below the speed limit on your last road trip. This is what we must do in software compliance.  We must show  how we're meeting the standards of the various compliance regulations using actual evidence.  This is backward from every day living.
+Most people don't walk around thinking about how they can prove they are following the law.  For example: it would be difficult to present evidence that proves you drove below the speed limit on your last road trip. This is what must be done in software compliance.  You must show how you are meeting the standards of the various compliance regulations using actual evidence.  This is backward from every day living.
 
-For internal compliance we can think of it like this:
+For internal compliance a useful methodology includes risk identification and measurement, control design and control evidence:
 
 <Insert Drawing>
 
 ### Time-boxed
 
-Most of us can't remember what we had for dinner three nights ago, let alone three months ago.  Control testing is usually time bound and the testing window can lag in the past -- too far in the past to remember. We have to rely on our controls to pull back old evidence rather than show how we're doing it today.
+Most people can't remember what they had for dinner three nights ago, let alone three months ago.  Control testing is usually time bound and the testing window can lag in the past -- too far in the past to remember. You have to rely on our controls to pull back old evidence rather than show how you're doing it today.
 
 ### Documentation actually helps
 
-The [agile manifesto](https://agilemanifesto.org/) demands "working software over comprehensive documentation." This is an area where some documentation about how a control is designed can save future hours of effort. Your future-self will thank you.
+The [agile manifesto](https://agilemanifesto.org/) demands "working software over comprehensive documentation." Paradoxically, this is an area where some documentation about how a control is designed can save future hours of effort. Your future-self will thank you.
 
-### We're on the same team
+### Everyone is on the same team
 
-Compliance testing can turn stressful.  Demonstrating compliance can be difficult for product teams.  Internal auditors have a tough job, too. Despite the stress that can come up, remember we're on the same team, with an intense focus on the customer and doing what's best for Netflix.  Internal competition among teams distracts from pleasing the customer.
+Compliance testing can turn stressful.  Demonstrating compliance can be difficult for product teams.  Internal auditors have a tough job, too. Despite the stress that can come up, remember everyone is on the same team and has an intense focus on the customer and doing what's best for Netflix.  Internal competition among teams distracts from pleasing the customer.
 
 ## What is our risk and control strategy?
 
-It is common for companies to adhere to many different compliance frameworks. Netflix operates in 190 different countries. It is impossible for one person to know all the different laws and regulations that apply to a particular application. Instead, we use a system of risk assessment and an inventory of controls with traceability to regulations. Everything does not need the same level of controls. We fight the python of process by calibrating controls to the level of risk.
+It is common for companies to adhere to many different compliance frameworks. Netflix operates in 190 different countries. It is impossible for one person to know all the different laws and regulations that apply to a particular application. Instead, a system of risk assessment and an inventory of controls with traceability to regulations is used. Everything does not need the same level of controls. The system fights the python of process by calibrating controls with the level of risk.
 
-We can think of a **control** as any system or procedure that helps improve the likelihood of the business achieving it's objectives. Common examples of controls for cloud-based companies include: access management, encryption, safe storage of customer information, and logging and monitoring to confirm that services work as intended. Engineers and product teams tend to be very security conscious already. These teams use a multitude of controls to do the right thing for the customer, but have never used the term "control."  Control is a strange name for a familiar concept.
+Think of a **control** as any system or procedure that helps improve the likelihood of the business achieving it's objectives. Common examples of controls for cloud-based companies include: access management, encryption, safe storage of customer information, and logging and monitoring to confirm that services work as intended. Engineers and product teams tend to be very security conscious already. These teams use a multitude of controls to do the right thing for the customer, but have never used the term "control."  Control is a strange name for a familiar concept.
 
 ### There are different types of controls:
 
@@ -89,7 +89,7 @@ Our strategy allows us to measure risk, build effective controls and provides th
 
 ## Measuring outcomes and impact
 
-It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. We expect to maintain a compliant environment. Error prevention is not the goal. Netflix is not in a safety-critical business<sup>5</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
+It is hard to track when something *doesn't* occur. This makes the measurement of a compliance system difficult.  Life is made up of close calls.  When bad things *don't happen* you usually never know it. Expect to maintain a compliant environment, but error prevention is not the goal. Netflix is not in a safety-critical business<sup>5</sup>. If too much error prevention hinders inventive, creative work, then the system is not working.
 
 Measurements should focus on the quality and efficiency of the entire system and the clarity provided by risk assessment as a tool to help with business strategy formation and execution. **Our compliance management system will be most successful when it looks and feels like other technologies engineers enjoy using**<sup>6</sup>.
 
