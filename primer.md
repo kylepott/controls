@@ -54,9 +54,9 @@ Software engineering and compliance have more in common than you might think.
 
 Most people don't walk around thinking about how they can prove they are following the law.  For example: it would be difficult to present evidence that proves you drove below the speed limit on your last road trip. This is what must be done in software compliance.  You must show how you are meeting the standards of the various compliance regulations using actual evidence.  This is backward from every day living.
 
-For internal compliance a useful methodology includes risk identification and measurement, control design and control evidence:
+For internal compliance a useful methodology includes risk identification and measurement, control design and control evidence.
 
-<img src="lifecycle.png" height=40% width=40% />
+<img align="right" src="lifecycle.png" height=40% width=40% />
 
 ### Time-boxed
 
