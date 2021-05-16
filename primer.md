@@ -1,4 +1,4 @@
-
+<p align="center"><img src="logo.png" width=40% height=40% /></p>
 <h1 align="center">A Primer on Compliance and Controls</h1>
 <p align="center">Time to read: 7 minutes
 </p>
