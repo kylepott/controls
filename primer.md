@@ -10,7 +10,7 @@
 2. We use systems to support compliance at scale
 3. Modern compliance has a surprising number of intersections with software engineering practices
 4. Some unique aspects of compliance testing can be frustrating
-5. ur strategy uses risk measurement to build controls that are right-sized (not one-size-fits-all)
+5. Our strategy uses risk measurement to build controls that are right-sized (not one-size-fits-all)
 6. The STAR team is here to help: ask questions share direct feedback.
 
 ## What do we mean when we say "compliance?"
